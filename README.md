@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Soy un desarrollador enfocado en el área de automatización de procesos repetitivos(RPA) con 3 años de experiencia, he trabajando con herramientas como Uipath, Automation Anywhere y automatizaciones basadas en vbscript, los sectores en los que he trabajado son el financieros, floricultor y energía.
+Soy un desarrollador enfocado en el área de automatización de procesos repetitivos(RPA) con 5 años de experiencia, he trabajando con herramientas como Uipath, Automation Anywhere y automatizaciones basadas en vbscript, los sectores en los que he trabajado son el financieros, floricultor y energía.
 
 Me apasiona que con mi trabajo optimizace el tiempo de las personas en sus tareas repetitivas, logrando que se enfoquen en tareas que generen un mayor valor partiendo de los resultados de las automatizaciones.
 
